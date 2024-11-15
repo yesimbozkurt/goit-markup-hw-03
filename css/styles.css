@@ -31,16 +31,6 @@ img {
     align-items: center;
 }
 
-
-/* nav ul {
-    display: flex;
-    flex-direction: row;
-}
-
-nav ul li {
-    list-style-type: none;
-} */
-
 .nav-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -166,6 +156,7 @@ cursor: pointer;
 .second-section-ul {
     display: flex;
     gap: 24px;
+    list-style: none;
 }
 .second-section-li {
     width: calc((100%-72px)/4);
@@ -244,6 +235,7 @@ cursor: pointer;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    list-style: none;
 }
 .fourth-section-list{
     width: calc((100%-72px)/4); 
@@ -268,7 +260,6 @@ footer {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #4d5ae5;
 }
 
