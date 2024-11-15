@@ -238,7 +238,7 @@ cursor: pointer;
     list-style: none;
 }
 .fourth-section-list{
-    width: calc((100%-72px)/4); 
+    width: calc((100%-72px)/4);
 }
 .fourth-section_app{
     padding: 32px 16px;
